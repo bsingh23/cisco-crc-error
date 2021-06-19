@@ -1,2 +1,2 @@
 # cisco-crc-error
-Cisco interface CRC errors detection
+Cisco interface/interfaces CRC errors detection python script
